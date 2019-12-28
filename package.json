@@ -1,13 +1,13 @@
 {
   "name": "va-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue admin 项目初始化工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "yq-cli": "./bin/va-cli"
+    "va-cli": "./bin/va-cli"
   },
   "keywords": [
     "vue",
