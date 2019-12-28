@@ -9,7 +9,7 @@ program.version(packageJson.version)
 program
   .command('init <name>')
   .alias('i')
-  .description('柚群 vue admin 项目初始化工具')
+  .description('vue admin 项目初始化工具')
   .action(name => {
     init(name)
   })

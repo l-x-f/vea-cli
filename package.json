@@ -1,22 +1,26 @@
 {
-  "name": "my-cli",
+  "name": "va-cli",
   "version": "0.0.1",
-  "description": "",
+  "description": "vue admin 项目初始化工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "yq-cli": "./bin/yq-cli"
+    "yq-cli": "./bin/va-cli"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "va-cli",
+    "vue admin 项目初始化工具"
+  ],
+  "author": "xiaofei",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.0.1",
     "download-git-repo": "^3.0.2",
-    "handlebars": "^4.5.3",
     "inquirer": "^7.0.1",
     "ora": "^4.0.3"
   },
