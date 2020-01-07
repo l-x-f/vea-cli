@@ -1,19 +1,19 @@
 {
-  "name": "va-cli",
-  "version": "1.0.2",
-  "description": "vue admin 项目初始化工具",
+  "name": "vea-cli",
+  "version": "1.0.0",
+  "description": "vue element-ui admin 项目初始化工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "va-cli": "./bin/va-cli"
+    "vea-cli": "./bin/vea-cli"
   },
   "keywords": [
     "vue",
     "vue-cli",
-    "va-cli",
-    "vue admin 项目初始化工具"
+    "vea-cli",
+    "vue element-ui admin 项目初始化工具"
   ],
   "author": "xiaofei",
   "license": "MIT",

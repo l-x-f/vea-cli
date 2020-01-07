@@ -1,20 +1,20 @@
-# va-cli
+# vea-cli
 
 ## Install
 
 ```sh
-$ npm install va-cli -g
+$ npm install vea-cli -g
 ```
 
 ## Usage
 
 ```sh
-$ va-cli init project-name  or  va-cli i project-name
+$ vea-cli init project-name  or  vea-cli i project-name
 ```
 
 ## Keywords
 
-vue va-cli vue admin 项目初始化工具
+vue vea-cli vue admin 项目初始化工具
 
 ## License
 
